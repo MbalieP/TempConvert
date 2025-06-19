@@ -15,9 +15,7 @@ A simple and intuitive web application that lets you convert temperature values 
 - CSS3
 - JavaScript (Vanilla)
 
-## 📸 Demo
 
-![screenshot](screenshot.png) <!-- Add screenshot if available -->
 
 ## 📄 How It Works
 
